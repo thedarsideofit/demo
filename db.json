@@ -1,7 +1,7 @@
 {
   "clientes": [
     { "id": 1, "nombre_apellido": "Juan Perez", "deuda": 200.50 },
-    { "id": 2, "nombre_apellido": "Pedro Ramirez", "deuda": 9000.50" },
-    { "id": 3, "nombre_apellido": "Ana Perez", "deuda": "500.90" },
+    { "id": 2, "nombre_apellido": "Pedro Ramirez", "deuda": 9000.50 },
+    { "id": 3, "nombre_apellido": "Ana Perez", "deuda": 500.90 }
   ]
 }
